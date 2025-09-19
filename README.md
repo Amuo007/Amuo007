@@ -9,9 +9,10 @@
 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrinder-singh-uh-computer-science/)
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrinder-singh-uh-computer-science/)  
+🌍 [Portfolio Website](https://Amuo007.github.io/portfolio)
 
 ## 💻 Tech Stack:
 
