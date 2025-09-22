@@ -5,7 +5,7 @@
 👀 I’m interested in **Machine Learning, Deep Learning, Full Stack Development, and iOS Development**.  
 🌱 I have hands-on experience with **Java, Python, Django, Node.js, Android, and iOS** development.  
 💡 I’m passionate about building innovative solutions that combine technology with creativity.  
-🚀 Always open to collaborating on exciting projects that push boundaries and solve real-world problems..  
+🚀 Always open to collaborating on exciting projects that push boundaries and solve real-world problems.  
 
 
 
